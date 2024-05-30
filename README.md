@@ -4,6 +4,10 @@
 
 This project involves the implementation of a power window control system for a car's front passenger door using Tiva C and FreeRTOS. The system includes both driver and passenger control panels, limit switches, obstacle detection, and an ON/OFF switch for locking the passenger panel from the driver panel.
 
+## Video Demo
+
+Check out our video demo showcasing the features and functionality of Carpool 2.0: [Video Demo](https://drive.google.com/file/d/1zoqyq1MmjrN6D1pemi7SbqWs3TjvTs4x/view?usp=drivesdk).
+
 ### Key Features
 1. **Control Panels**: Both driver and passenger can control the front passenger door window.
 2. **Limit Switches**: Two limit switches to limit the window motor from top and bottom limits.
