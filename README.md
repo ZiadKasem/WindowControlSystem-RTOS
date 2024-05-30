@@ -6,7 +6,7 @@ This project involves the implementation of a power window control system for a 
 
 ## Video Demo
 
-Check out our video demo showcasing the features and functionality of Carpool 2.0: [Video Demo](https://drive.google.com/file/d/1zoqyq1MmjrN6D1pemi7SbqWs3TjvTs4x/view?usp=drivesdk).
+Check out our video demo showcasing the features and functionality of Project: [Video Demo](https://drive.google.com/file/d/1zoqyq1MmjrN6D1pemi7SbqWs3TjvTs4x/view?usp=drivesdk).
 
 ### Key Features
 1. **Control Panels**: Both driver and passenger can control the front passenger door window.
